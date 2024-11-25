@@ -1,0 +1,7 @@
+C:\Users\ymath\source\repos\Trabalho_ATP_Bingo\Jogo_Bingo\bin\Debug\Jogo_Bingo.exe.config
+C:\Users\ymath\source\repos\Trabalho_ATP_Bingo\Jogo_Bingo\bin\Debug\Jogo_Bingo.exe
+C:\Users\ymath\source\repos\Trabalho_ATP_Bingo\Jogo_Bingo\bin\Debug\Jogo_Bingo.pdb
+C:\Users\ymath\source\repos\Trabalho_ATP_Bingo\Jogo_Bingo\obj\Debug\Jogo_Bingo.csproj.AssemblyReference.cache
+C:\Users\ymath\source\repos\Trabalho_ATP_Bingo\Jogo_Bingo\obj\Debug\Jogo_Bingo.csproj.CoreCompileInputs.cache
+C:\Users\ymath\source\repos\Trabalho_ATP_Bingo\Jogo_Bingo\obj\Debug\Jogo_Bingo.exe
+C:\Users\ymath\source\repos\Trabalho_ATP_Bingo\Jogo_Bingo\obj\Debug\Jogo_Bingo.pdb
