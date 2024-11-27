@@ -12,6 +12,12 @@ namespace Jogo_Bingo
         int[] verifCartela = new int[75];
         int cont = 0;
 
+        public int[,] MatrizCartela
+        {
+            get { return cartela; }
+            set { cartela = value; }
+        }
+
         public void PreencherCartela(Random r)
         {
             for (int j = 0; j < cartela.GetLength(0); j++)

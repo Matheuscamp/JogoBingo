@@ -45,7 +45,6 @@ namespace Jogo_Bingo
             this.nome = nome;
             this.idade = idade;
             this.sexo = sexo;
-            
             this.quantidadeCartelas = quantidadeCartelas;
             cartelas = new Cartela[quantidadeCartelas];
         }
@@ -58,6 +57,5 @@ namespace Jogo_Bingo
                 cartelas[i].PreencherCartela(r);
             }
         }
-
     }
 }
